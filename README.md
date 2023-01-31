@@ -1,2 +1,2 @@
 # simple-responsive-cards
-Training responsiveness on three different screens with the display grid
+Training responsiveness on four different screens with the display grid
